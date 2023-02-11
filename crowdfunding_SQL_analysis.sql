@@ -21,6 +21,7 @@ order by no_backers desc;
 -- Create a table that has the first and last name, and email address of each contact.
 -- and the amount left to reach the goal for all "live" projects in descending order. 
 select co.first_name, co.last_name, co.email, (ca.goal - ca.pledged) as remaining_goal_amount
+into email_contacts_remaining_goal_amount
 from contacts co
 inner join campaign ca
 on co.contact_id = ca.contact_id
