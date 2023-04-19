@@ -34,6 +34,9 @@ Queried the data for reporting to stakeholders:
 
 ![image](https://user-images.githubusercontent.com/113741694/233164906-0585114f-6142-404d-b7b7-1bc83486f297.png)
 
+![image](https://user-images.githubusercontent.com/113741694/233168882-fc0769fc-2242-47d5-b903-f271984f6723.png)
+
+
 
 
 
